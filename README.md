@@ -6,25 +6,23 @@
 # Features
 - Deleting Slash commands single click 
 
-## Preview
-<img src="https://i.imgur.com/8K2MgWQ.png"/>
+## Setup configs
+<img src="https://media.discordapp.net/attachments/996257607541071982/1079440647381061762/IMG_20230226_220128.jpg"/>
 
 ## Installation & Setup
 ```
-npm install discord.js@latest @discordjs/rest ascii-table discord-api-types ms dotenv chalk@2.4.1
+npm i
 ```
 Leave the `GUILD_ID` in `.env` file blank if you want to register slash commands globally.
 
 <br />
 
-Add new secret: `TOKEN`, `CLIENT_ID` and `GUILD_ID` into the environment variables tab (lock icon in sidebar) if you are using [replit](https://replit.com/).
+Add new secret: `token`, `clienid` into the environment variables tab (lock icon in sidebar) if you are using [replit](https://replit.com/).
 
 If you are using [replit](https://replit.com/) you can remove `require('dotenv').config()` from `index.js` and you don't need to install `dotenv`
 
 ---
-## Made by Nathaniel (Nathaniel VFX#8080)
-These command handlers are made by Nathaniel (Nathaniel VFX#8080)
-
+## Made by ASH (ASH #3395)
 **⭐ Remember to star the repository if you like it! ⭐**
 
 _**Please give me proper credit when you use it, especially if you want to edit and post to public.**_
@@ -32,7 +30,7 @@ _**Please give me proper credit when you use it, especially if you want to edit 
 ---
 
 ## Contact
-Discord: `Nathaniel VFX#8080`
+Discord: `ASH#3395`
 
 If you have any problem, feel free to contact me. 😉
 
