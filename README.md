@@ -28,6 +28,32 @@
 
 </p>
 
+<p align="center">
+
+<a href="https://github.com/Ash-smile/interaction-deleter-discordjs-v14">
+
+   <img src="https://img.shields.io/github/forks/Ash-smile/interaction-deleter-discordjs-v14?logo=githubactions&logoColor=success&style=social" alt="github-fork">
+
+</a>
+
+<a href="https://github.com/Ash-smile/interaction-deleter-discordjs-v14">
+
+   <img src="https://img.shields.io/github/stars/Ash-smile/interaction-deleter-discordjs-v14?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+
+</a>
+
+<a href="https://github.com/Nathaniel-VFX">
+
+   <img src="https://img.shields.io/github/followers/Nathaniel-VFX?label=Follow&logo=github&style=social" alt="github-follow">
+
+</a>
+
+  
+
+</p>
+
+
+<br>
 # Features
 - Deleting Slash commands single click 
 
