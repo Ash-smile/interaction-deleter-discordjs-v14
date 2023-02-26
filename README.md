@@ -103,4 +103,4 @@ Discord: `ASH#3395`
 
 If you have any problem, feel free to contact me. 😉
 
-<img src="https://media.discordapp.net/attachments/996257607541071982/1079442473149009951/IMG_20230226_220840.jpg" alt="Discord"/>
+<img src="https://media.discordapp.net/attachments/996257607541071982/1079449572398604350/IMG_20230226_223702.jpg" alt="Discord"/>
