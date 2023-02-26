@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Ash-smile/interaction-deleter-discordjs-v14">
 
-   <img src="https://img.shields.io/badge/version-latest-red?style=for-the-badge" alt="node.js">
+  <img src="https://img.shields.io/badge/version-latest-red?style=for-the-badge" alt="node.js">
 
 </a>
 
@@ -76,7 +76,7 @@
 
 
 <br>
-## Features
+Features
 - Deleting Slash commands single click 
 
 ## Setup configs
