@@ -4,6 +4,28 @@
 <h4 align="center"> ~ Made by ASH#3395</h4
    
    
+
+<p align="center">
+
+<a href="https://nodejs.org/en/download/">
+
+   <img src="https://img.shields.io/badge/node-16.9.x-brightgreen?style=for-the-badge" alt="node.js">
+
+</a>
+
+<a href="https://github.com/discordjs/discord.js/">
+
+   <img src="https://img.shields.io/badge/discord.js-v14-blue?style=for-the-badge" alt="discord.js">
+
+</a>
+
+<a href="https://github.com/Ash-smile/interaction-deleter-discordjs-v14">
+
+   <img src="https://img.shields.io/badge/version-latest-red?style=for-the-badge" alt="node.js">
+
+</a>
+
+</p>
    
 
 <p align="center">
