@@ -1,7 +1,32 @@
 <h1 align="center">
    Slash Command Deleter @discord.js v14 
 </h1>
-<h4 align="center"> ~ Made by ASH#3395</h4>
+<h4 align="center"> ~ Made by ASH#3395</h4
+   
+   
+   
+
+<p align="center">
+
+   
+
+<a href="https://github.com/Ash-smile/interaction-deleter-discordjs-v14/fork">
+
+   <img src="https://img.shields.io/badge/Fork-github-blueviolet?logo=githubactions&logoColor=white&style=for-the-badge" alt="github-fork">
+
+</a>
+
+   
+
+<a href="https://replit.com/@logezh/Dsc">
+
+   <img src="https://img.shields.io/badge/Fork-Replit-white?logo=githubactions&logoColor=white&style=for-the-badge" alt="replit-fork">
+
+</a>
+
+   
+
+</p>
 
 # Features
 - Deleting Slash commands single click 
