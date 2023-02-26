@@ -76,7 +76,7 @@
 
 
 <br>
-# Features
+## Features
 - Deleting Slash commands single click 
 
 ## Setup configs
