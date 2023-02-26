@@ -11,10 +11,8 @@
 
 ## Installation & Setup
 ```
-npm i
+npm install
 ```
-Leave the `GUILD_ID` in `.env` file blank if you want to register slash commands globally.
-
 <br />
 
 Add new secret: `token`, `clienid` into the environment variables tab (lock icon in sidebar) if you are using [replit](https://replit.com/).
@@ -25,8 +23,6 @@ If you are using [replit](https://replit.com/) you can remove `require('dotenv')
 ## Made by ASH (ASH #3395)
 **⭐ Remember to star the repository if you like it! ⭐**
 
-_**Please give me proper credit when you use it, especially if you want to edit and post to public.**_
-
 ---
 
 ## Contact
@@ -34,4 +30,4 @@ Discord: `ASH#3395`
 
 If you have any problem, feel free to contact me. 😉
 
-<img src="https://discord.c99.nl/widget/theme-2/753180650202202154.png" alt="Discord"/>
+<img src="https://media.discordapp.net/attachments/996257607541071982/1079442473149009951/IMG_20230226_220840.jpg" alt="Discord"/>
