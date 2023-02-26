@@ -44,7 +44,7 @@
 
 <a href="https://github.com/Nathaniel-VFX">
 
-   <img src="https://img.shields.io/github/followers/Nathaniel-VFX?label=Follow&logo=github&style=social" alt="github-follow">
+   <img src="https://img.shields.io/github/followers/Ash-smile?label=Follow&logo=github&style=social" alt="github-follow">
 
 </a>
 
